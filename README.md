@@ -3,7 +3,7 @@
 - 😄 I have been programming since I was in secondary school and I absolutely love it. I think it will very likely be my future career!
 
 <div style="text-align: center;">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=N%E1%BA%BFu+ng%C6%B0%E1%BB%9Di+kh%C3%A1c+l%C3%A0m+%C4%91%C6%B0%E1%BB%A3c%2C+th%C3%AC+nh%E1%BB%9D+h%E1%BB%8D+%3Av)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=N%E1%BA%BFu+ng%C6%B0%E1%BB%9Di+kh%C3%A1c+l%C3%A0m+%C4%91%C6%B0%E1%BB%A3c%2C+th%C3%AC+nh%E1%BB%9D+h%E1%BB%8D+%3Av" alt="Typing SVG" /></a>
 </div>
 
 <!--
