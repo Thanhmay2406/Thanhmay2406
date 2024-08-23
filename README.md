@@ -1,5 +1,5 @@
 # Hi there 👋, I'm May
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=eat;sleep;code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=eat;sleep;code)](https://git.io/typing-svg)
 - 🌱 I'm currently studying Computer Science at Industrial University of Ho Chi Minh city.
 - 😄 I have been programming since I was in secondary school and I absolutely love it. I think it will very likely be my future career!
   ![image](https://github.com/user-attachments/assets/b97a412f-362a-42fd-a2e4-be46d45ec50d)
