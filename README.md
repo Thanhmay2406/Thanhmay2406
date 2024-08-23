@@ -1,7 +1,7 @@
 # Hi there 👋, I'm May
 - 🌱 I'm currently studying Computer Science at Industrial University of Ho Chi Minh city.
 - 😄 I have been programming since I was in secondary school and I absolutely love it. I think it will very likely be my future career!
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&duration=2000&pause=1000&width=435&lines=N%E1%BA%BFu+ng%C6%B0%E1%BB%9Di+kh%C3%A1c+l%C3%A0m+%C4%91%C6%B0%E1%BB%A3c%2C+th%C3%AC+nh%E1%BB%9D+h%E1%BB%8D+%3Av)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=N%E1%BA%BFu+ng%C6%B0%E1%BB%9Di+kh%C3%A1c+l%C3%A0m+%C4%91%C6%B0%E1%BB%A3c%2C+th%C3%AC+nh%E1%BB%9D+h%E1%BB%8D+%3Av)](https://git.io/typing-svg)
 
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
