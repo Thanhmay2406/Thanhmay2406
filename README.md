@@ -2,11 +2,7 @@
 - 🌱 I'm currently studying Computer Science at Industrial University of Ho Chi Minh city.
 - 😄 I have been programming since I was in secondary school and I absolutely love it. I think it will very likely be my future career!
 
-<div style="display: flex;
-    justify-content: center;
-    align-items: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=N%E1%BA%BFu+ng%C6%B0%E1%BB%9Di+kh%C3%A1c+l%C3%A0m+%C4%91%C6%B0%E1%BB%A3c%2C+th%C3%AC+nh%E1%BB%9D+h%E1%BB%8D+%3Av" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=500&lines=I+look+like+an+ant+in+the+big+world+%F0%9F%90%A7%F0%9F%90%A7)](https://git.io/typing-svg)
 
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
