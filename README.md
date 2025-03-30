@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406&layout=donut)](https://github.com/Thanhmay2406/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanhmay2406&show_icons=true&theme=transparent)
+
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
