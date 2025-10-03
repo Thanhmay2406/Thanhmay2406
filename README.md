@@ -2,9 +2,7 @@
 - 🌱 I'm currently studying Computer Science at Industrial University of Ho Chi Minh city.
 - 😄 I have been programming since I was in secondary school and I absolutely love it. I think it will very likely be my future career!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406&layout=donut-vertical)](https://github.com/Thanhmay2406/github-readme-stats)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanhmay2406&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406)](https://github.com/Thanhmay2406/github-readme-stats)
 
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
