@@ -4,11 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406)](https://github.com/Thanhmay2406/github-readme-stats)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=icecream123)
+## COMPETITIVE PROGRAMING
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/codeforces/icecream123)](https://codeforces.com/profile/icecream123) [![VNOJ](https://img.shields.io/badge/VNOJ-1194-808080)](https://oj.vnoi.info/user/thanhmay2406) [![IUHCoder](https://img.shields.io/badge/IUHCoder-1532-03A89E)](https://oj.iuhcoder.com/user/Thanhmay2005) [![MarisaOJ](https://img.shields.io/badge/MarisaOJ-grey)](https://marisaoj.com/user/Thanhmay2005/submissions)
+
 
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=icecream123)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
