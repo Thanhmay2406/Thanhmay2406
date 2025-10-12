@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+May)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+May)](https://git.io/typing-svg)
 ---
 
 - 🌱 I'm currently studying **Computer Science** at **Industrial University of Ho Chi Minh City**.  
