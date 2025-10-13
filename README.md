@@ -12,9 +12,14 @@
 ![Thanh May's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanhmay2406&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406&layout=compact&theme=tokyonight)
 
-## COMPETITIVE PROGRAMING
+## Competitive Programming
 [![DMOJ Badge](http://mosesxu.ca/judge-badge/codeforces/icecream123)](https://codeforces.com/profile/icecream123) [![VNOJ](https://img.shields.io/badge/VNOJ-1194-808080)](https://oj.vnoi.info/user/thanhmay2406) [![IUHCoder](https://img.shields.io/badge/IUHCoder-1532-03A89E)](https://oj.iuhcoder.com/user/Thanhmay2005) [![MarisaOJ](https://img.shields.io/badge/MarisaOJ-grey)](https://marisaoj.com/user/Thanhmay2005/submissions)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Thanhmay2406/Thanhmay2406/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <!--
 **Thanhmay2406/Thanhmay2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
