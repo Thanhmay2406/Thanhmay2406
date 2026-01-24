@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhmay2406&layout=compact&theme=tokyonight)
 
 ## Competitive Programming
-[![DMOJ Badge](http://mosesxu.ca/judge-badge/codeforces/icecream123)](https://codeforces.com/profile/icecream123) [![VNOJ](https://img.shields.io/badge/VNOJ-1194-808080)](https://oj.vnoi.info/user/thanhmay2406) [![IUHCoder](https://img.shields.io/badge/IUHCoder-1532-03A89E)](https://oj.iuhcoder.com/user/Thanhmay2005) [![MarisaOJ](https://img.shields.io/badge/MarisaOJ-grey)](https://marisaoj.com/user/Thanhmay2005/submissions)
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/codeforces/dangthanhmay)](https://codeforces.com/profile/dangthanhmay) [![VNOJ](https://img.shields.io/badge/VNOJ-1194-808080)](https://oj.vnoi.info/user/thanhmay2406) [![IUHCoder](https://img.shields.io/badge/IUHCoder-1532-03A89E)](https://oj.iuhcoder.com/user/Thanhmay2005) [![MarisaOJ](https://img.shields.io/badge/MarisaOJ-grey)](https://marisaoj.com/user/Thanhmay2005/submissions)
 
 ## 🐍 Contribution Snake
 
