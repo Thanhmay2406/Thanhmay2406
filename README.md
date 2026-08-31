@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
