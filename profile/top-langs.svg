@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="150.75"
+          width="191.48"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="150.75"
+          x="191.48"
           y="0"
-          width="63.77"
+          width="34.36"
           height="8"
           fill="#000080"
         />
@@ -148,21 +148,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="214.52"
+          x="225.83999999999997"
           y="0"
-          width="19.24"
+          width="13.8"
           height="8"
-          fill="#f34b7d"
+          fill="#89e051"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.76000000000002"
+          x="239.64"
           y="0"
-          width="16.24"
+          width="10.37"
           height="8"
-          fill="#89e051"
+          fill="#f34b7d"
         />
       
       
@@ -171,28 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 60.30%
+        Python 76.59%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 25.51%
+        Lua 13.74%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 7.70%
+        Shell 5.52%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 6.50%
+        C++ 4.15%
       </text>
     </g>
   </g></g>
